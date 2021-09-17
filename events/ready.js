@@ -11,7 +11,7 @@ module.exports = async (client) => {
             type: types[random], // PLAYING, WATCHING, LISTENING, STREAMING,
         }
     });
-  }, 6900);
+  }, 69000);
     client.Manager.init(client.user.id);
     client.log("Successfully Logged in as " + client.user.tag); // You can change the text if you want, but DO NOT REMOVE "client.user.tag"
 client.RegisterSlashCommands();
