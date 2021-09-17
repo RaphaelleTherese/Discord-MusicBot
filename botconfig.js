@@ -18,10 +18,10 @@ module.exports = {
 
   //Lavalink
    Lavalink: {
-    id: "MAIN",
-    host: "mr305-lavalink.herokuapp.com",
-    port: 80,
-    pass: "pleasework", 
+    id: "Main",
+    host: "endstone.mcworld.cc",
+    port: 25773,
+    pass: "youshallnotpass", 
     secure: false, // Set this to true if you're self-hosting lavalink on replit.
   },
 
